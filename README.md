@@ -1,7 +1,7 @@
 ## 高层API助你快速上手深度学习
 
-来源于：飞桨深度学习学院
-课程链接：https://aistudio.baidu.com/aistudio/education/group/info/6771
+1. 来源于：飞桨深度学习学院
+2. 课程链接：https://aistudio.baidu.com/aistudio/education/group/info/6771
 
 ## 客观作业
 
